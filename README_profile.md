@@ -10,7 +10,7 @@ Statistics and Data Science student at UNICAMP, currently working as a data cons
 
 ## Projects
 
-- [**BTVC/KTR — Unemployment Forecasting**](https://github.com/ThalesCrivillari/btvc-ktr-unemployment-forecasting) — Bayesian time-varying coefficient model applied to US unemployment claims, using Uber's Orbit library. Academic project for ME607 (Time Series) at UNICAMP.
+- [**BTVC/KTR — Unemployment Forecasting**](https://github.com/ThalesCrivillari/Series-temporais-com-Modelo-Bayesiano-de-Coeficientes-Vari-veis-no-Tempo) — Bayesian time-varying coefficient model applied to US unemployment claims, using Uber's Orbit library. Academic project for ME607 (Time Series) at UNICAMP.
 
 - [**Iris Clustering Comparison**](https://github.com/ThalesCrivillari/iris-clustering-comparison) — K-Means, Hierarchical and GMM side by side, showing why probabilistic models handle overlapping clusters better (ARI: GMM 0.90 vs K-Means 0.62).
 
