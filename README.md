@@ -10,7 +10,10 @@ Statistics and Data Science student at UNICAMP, currently working as a data cons
 
 ## Projects
 
+
 - [**BTVC/KTR — Unemployment Forecasting**](https://github.com/ThalesCrivillari/Series-temporais-com-Modelo-Bayesiano-de-Coeficientes-Vari-veis-no-Tempo) — Bayesian time-varying coefficient model applied to US unemployment claims, using Uber's Orbit library. Academic project for ME607 (Time Series) at UNICAMP.
+
+- [**Cotton Seed Price Forecasting — SARIMA**](https://github.com/ThalesCrivillari/serie-temporal-caroco-algodao) — Forecasting the cotton seed commodity price (Mato Grosso, Brazil) with SARIMA, plus hybrid and hierarchical models as complements. ME607 (Time Series), UNICAMP.
 
 - [**Iris Clustering Comparison**](https://github.com/ThalesCrivillari/Clustering-the-Iris-Dataset-K-Means-Hierarchical-GMM) — K-Means, Hierarchical and GMM side by side, showing why probabilistic models handle overlapping clusters better (ARI: GMM 0.90 vs K-Means 0.62).
 
